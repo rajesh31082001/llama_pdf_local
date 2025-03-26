@@ -30,10 +30,7 @@ ollama_pdf_rag/
 └── run.py                   # Application runner
 ```
 
-## 📺 Video Tutorial
-<a href="https://youtu.be/ztBJqzBU5kc">
-  <img src="https://img.youtube.com/vi/ztBJqzBU5kc/hqdefault.jpg" alt="Watch the video" width="100%">
-</a>
+
 
 ## ✨ Features
 
